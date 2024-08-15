@@ -48,6 +48,8 @@ This project simulates a traffic signal system using an ESP32 microcontroller. T
     ```bash
     idf.py monitor
     ```
+    
+    ` ctrl+] ` 
 
 ## Circuit Diagram
 
