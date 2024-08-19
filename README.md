@@ -13,7 +13,7 @@ This project simulates a traffic signal system using an ESP32 microcontroller. T
 
 - **ESP32 Development Board**
 - **ESP-IDF Framework**: Ensure you have the ESP-IDF development environment set up.
-- **LEDs**: Green, Yellow, and Red LEDs.
+- **LEDs**: Green, Yellow, and Red LEDs in this project.
 - **Resistors**: Appropriate resistors for each LED.
 - **Breadboard and Jumper Wires**: For assembling the circuit.
 
