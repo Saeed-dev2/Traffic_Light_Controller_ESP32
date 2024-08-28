@@ -7,7 +7,7 @@ This project simulates a traffic signal system using an ESP32 microcontroller. T
 - **Green LED**: Represents the "Go" signal, stays on for 1 minute.
 - **Yellow LED**: Represents the "Caution" signal, stays on for 3 seconds.
 - **Red LED**: Represents the "Stop" signal, stays on for 1 minute.
-- **Task-based Control**: Uses FreeRTOS tasks to manage the LED sequence.
+- **Task-based Control**: Uses FreeRTOS tasks to manage the LED Sequence.
 
 ## Prerequisites
 
